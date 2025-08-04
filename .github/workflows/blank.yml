@@ -11,6 +11,11 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+     permissions:
+      contents: write
+      pages: write
+      id-token: write
+
     steps:
       - name: Generate SyntaxSeed themed snake
         uses: Platane/snk/svg-only@v3
