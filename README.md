@@ -122,9 +122,6 @@ console.log("永远在扩展知识边界！🚀");
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=timeshiftsauce&color=2A9D8F&style=for-the-badge&label=访问量" />
-</div>
 
 <div align="center">
 <h3>💡 "预测未来的最好方法就是创造未来。" 💡</h3>
