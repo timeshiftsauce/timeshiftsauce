@@ -132,5 +132,5 @@ console.log("Always expanding my knowledge! 🚀");
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/timeshiftsauce/timeshiftsauce/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/timeshiftsauce/timeshiftsauce/output/snake-syntaxseed.svg" />
 </div>
