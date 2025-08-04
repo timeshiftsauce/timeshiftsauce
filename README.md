@@ -117,7 +117,7 @@ console.log("永远在扩展知识边界！🚀");
 ## 🎵 编程时的音乐
 
 <div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31i6rt2lgpcye75seiflqr3hfbne&unique=true" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31i6rt2lgpcye75seiflqr3hfbne&unique=true&count=3" />
 </div>
 
 ---
