@@ -130,5 +130,5 @@ console.log("永远在扩展知识边界！🚀");
 
 <!-- 贪吃蛇动画 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/timeshiftsauce/timeshiftsauce/output/snake-syntaxseed.svg" />
+<img src="https://raw.githubusercontent.com/timeshiftsauce/timeshiftsauce/output/snake-ocean.svg" />
 </div>
