@@ -53,7 +53,7 @@
 ## 🎯 精选项目
 
 [![SyntaxSeed Blog](https://github-readme-stats.vercel.app/api/pin/?username=timeshiftsauce&repo=syntaxseed&theme=tokyonight&bg_color=0D1117&title_color=2A9D8F&icon_color=64FFDA&text_color=C9D1D9)](https://github.com/timeshiftsauce/SyntaxSeed)
-[![SyntaxSeed Blog](https://github-readme-stats.vercel.app/api/pin/?username=timeshiftsauce&repo=CeruMusic&theme=tokyonight&bg_color=0D1117&title_color=2A9D8F&icon_color=64FFDA&text_color=C9D1D9)](https://github.com/timeshiftsauce/[Ceru](https://github.com/timeshiftsauce/CeruMusic)
+[![SyntaxSeed Blog](https://github-readme-stats.vercel.app/api/pin/?username=timeshiftsauce&repo=CeruMusic&theme=tokyonight&bg_color=0D1117&title_color=2A9D8F&icon_color=64FFDA&text_color=C9D1D9)](https://github.com/timeshiftsauce/CeruMusic)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vue,js,ts,nodejs,express,mysql,redis,docker,git,linux,nginx,vite,tailwind,html,css" />
