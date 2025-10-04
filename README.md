@@ -2,7 +2,7 @@
 
 ## 00 后高中生一枚—时迁酱
 
-19 年开始学习编程，喜欢捣鼓，热爱前端。项目经验 3 年(2 企业+1 个人)，喜欢探讨新技术。
+19 年开始学习编程，喜欢捣鼓，热爱前端。项目经验 3 个(2 企业+1 个人)，喜欢探讨新技术。
 
 <div align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2A9D8F&center=true&vCenter=true&width=600&lines=全栈开发者+%F0%9F%9A%80;Vue.js+%26+Node.js+爱好者+%F0%9F%92%BB;持续学习新技术+%F0%9F%8C%B1;构建精彩的网络体验+%E2%9C%A8" alt="Typing SVG" width="100%" />
